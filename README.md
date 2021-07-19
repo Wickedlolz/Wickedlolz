@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:iceshotgg.linux@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={Wickedlolz}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Wickedlolz&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wickedlolz&theme=dark" width="48%" >
