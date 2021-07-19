@@ -38,11 +38,13 @@ Here are some ideas to get you started:
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
-#### Github Stats
+### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Wickedlolz&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wickedlolz&theme=dark" width="48%" >
+
+### My Stackoverflow Stats
+<a href="https://stackoverflow.com/users/10519742/viktor-dimitrov"><img src="https://stackoverflow.com/users/flair/10519742.png" width="208" height="58" alt="profile for Viktor Dimitrov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Viktor Dimitrov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wickedlolz&layout=compact)
