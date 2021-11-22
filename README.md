@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently studyng JavaScript Fullstack Web Dev
-- 💬 Ask me about NodeJS, Express, Vanilla JS
 - ⚡ Fun fact: True JavaScript Fan
 - 📫 How to reach me: <a href="mailto:iceshotgg.linux@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
