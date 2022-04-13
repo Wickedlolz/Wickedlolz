@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently studyng JavaScript Fullstack Web Dev
-- ⚡ Fun fact: True JavaScript Fan
+- ⚡ Fun fact: JavaScript Enthusiast
 
 ## Tech Stack
 <p>
