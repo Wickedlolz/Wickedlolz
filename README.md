@@ -8,7 +8,7 @@
 
 ### GitHub Throphies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wickedlolz" alt="wickedlolz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wickedlolz" alt="Wickedlolz" /></a> </p>
 
 - 🌱 I’m currently learning **JS Back-End**
 
