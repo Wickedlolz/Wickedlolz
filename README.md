@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [MovieForest](https://github.com/Wickedlolz/movieforest)<br>🌱 I’m currently learning HTML, CSS and Angular<br>💬 Ask me about anything related to MEARN stack and related technologies<br>⚡ Fun fact: I use tabs over spaces 
+🔭 I’m currently working on [MovieForest](https://github.com/Wickedlolz/movieforest) and [PhoneCity](https://github.com/Wickedlolz/phonecity-server)<br>🌱 I’m currently learning HTML, CSS and Angular<br>💬 Ask me about anything related to MEARN stack and related technologies<br>⚡ Fun fact: I use tabs over spaces 
 
 
 # 💻 Tech Stack:
