@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [MovieForest](https://github.com/Wickedlolz/movieforest) and [PhoneCity](https://github.com/Wickedlolz/phonecity-server)<br>🌱 I’m currently learning HTML, CSS and Angular<br>💬 Ask me about anything related to MEARN stack and related technologies<br>⚡ Fun fact: I use tabs over spaces 
+🔭 I’m currently working on [MovieForest](https://github.com/Wickedlolz/movieforest) and [iWindy](https://github.com/Wickedlolz/iwindy-server)<br>🌱 I’m currently learning HTML, CSS and Angular<br>💬 Ask me about anything related to MEARN stack and related technologies<br>⚡ Fun fact: I use tabs over spaces 
 
 
 # 💻 Tech Stack:
@@ -11,9 +11,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Wickedlolz&icon=4&color=0)](https://visitcount.itsvg.in)
