@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Forum]([https://github.com/Wickedlolz/netflix-clone](https://github.com/Wickedlolz/forum))<br>🌱 I’m currently learning Angular<br>💬 Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: I use tabs over spaces 
+🔭 I’m currently working on [Forum](https://github.com/Wickedlolz/forum)<br>🌱 I’m currently learning Angular<br>💬 Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: I use tabs over spaces 
 
 
 # 💻 Tech Stack:
