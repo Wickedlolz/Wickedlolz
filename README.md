@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wickedlolz!
+# 👋 Hi, I'm Viktor Dimitrov!
 
 Welcome to my GitHub profile!  
 I'm a passionate **Junior Front End Developer** with a strong foundation in building modern, responsive web applications using the latest technologies.
