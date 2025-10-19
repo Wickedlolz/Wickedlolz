@@ -1,9 +1,71 @@
-# 💫 About Me:
-🌱 I’m currently learning [Angular](https://angular.dev/)<br>💬 Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: I use tabs over spaces 
+# 👋 Hi, I'm Wickedlolz!
 
+Welcome to my GitHub profile!  
+I'm a passionate **Junior Front End Developer** with a strong foundation in building modern, responsive web applications using the latest technologies.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+---
+
+## 🚀 About Me
+
+- 💻 **Web Enthusiast:** I love crafting beautiful and functional interfaces that make life easier for users.
+- 🧠 **Continuous Learner:** Always exploring new frameworks, libraries, and tools to improve my craft.
+- 📈 **Team Player:** I enjoy collaborating with others and believe that sharing knowledge helps everyone grow.
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Frontend**
+- React
+- NextJS
+- Angular
+- TypeScript
+- CSS, HTML
+- TailwindCSS
+- ShadCN
+
+**Backend & Cloud**
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+
+---
+
+## 🌟 Favorite Projects
+
+Here are some projects I'm proud of:
+
+- [StreamTube](https://github.com/Wickedlolz/streamtube)  
+  *StreamTube is a movie streaming platform that lets users explore a vast library of films, stream instantly, and interact with movie content. Features include user authentication, movie likes/favorites, trailers, detailed actor/movie info, search by title or genre, theme customization, and a responsive design. Built with NextJS, Tailwind CSS, ShadCN, Firebase, and TMDB API.*
+
+- [FrameFlow](https://github.com/Wickedlolz/frameflow)  
+  *FrameFlow is a modern image discovery platform built with Next.js and Supabase. Users can browse high-quality images, create and explore themed collections, like and save favorites, and use advanced search. The app features responsive design, infinite scrolling, secure authentication, dark mode, dynamic FAQ, and contact system. Technologies include Next.js, TypeScript, Tailwind CSS, shadcn/ui, Supabase, Unsplash API, and Framer Motion.*
+
+- [Work Schedule](https://github.com/Wickedlolz/work_schedule)  
+  *Work Schedule is a comprehensive, mobile-friendly work scheduling app supporting multiple schedules and teams. Users can create, edit, and manage unlimited work rosters, assign color-coded shifts, sync data in real time via Firebase, and export schedules to PDF and Excel. The app supports multi-user access, responsive layouts, weekend highlighting, and advanced navigation. Built with Vite, React 19, TypeScript, TailwindCSS v4, Shadcn UI, and Firebase Firestore.*
+
+- [FeedSpark](https://github.com/Wickedlolz/feedspark)  
+  *FeedSpark is an intelligent RSS feed reader that organizes content from multiple sources and uses Google Gemini AI for article summarization and top story curation. Features include folder organization, unified feed view, AI-powered summaries, and a modern dark-mode UI. Runs entirely client-side with localStorage persistence and no backend required. Built with React, TypeScript, Tailwind CSS, and Google Gemini API.*
+
+---
+
+## 📚 What I'm Learning
+
+- Improving my proficiency in TypeScript and NextJS.
+- Exploring advanced UI frameworks like ShadCN and TailwindCSS.
+- Diving deeper into backend technologies and cloud integrations.
+
+---
+
+## ✨ Goals
+
+- Build more open-source projects that help developers.
+- Contribute to collaborative team environments and large-scale applications.
+- Stay up-to-date with the latest in web development and JavaScript ecosystems.
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Wickedlolz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wickedlolz&theme=dark&hide_border=true)<br/>
@@ -14,6 +76,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Wickedlolz&icon=4&color=0)](https://visitcount.itsvg.in)
+
+---
+Thanks for visiting my profile!  
+Feel free to check out my projects or reach out for collaboration.
 
 
 
