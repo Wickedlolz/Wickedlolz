@@ -75,9 +75,6 @@ Here are some projects I'm proud of:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Wickedlolz&icon=4&color=0)](https://visitcount.itsvg.in)
-
----
 Thanks for visiting my profile!  
 Feel free to check out my projects or reach out for collaboration.
 
